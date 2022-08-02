@@ -3,6 +3,7 @@
 Credit Risk Analysis
 Purpose:
 The purpose of this analysis is to predict credit risk.  We are using a credit card dataset from LendingClub, a peer-to-peer lending service to complete our analysis.  We are tasked with using several different statistical models to evaluate the data and try to figure out which model performs the best at predicting credit risk. 
+
 •	Results:
 Balanced accuracy scores:
 Over 0.9 - Very good
